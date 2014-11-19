@@ -1,0 +1,42 @@
+.circles-text {
+	color: #81CE97;
+	font-size: 24px;
+}
+
+.circle {
+	margin-top: 25%;
+	margin-left: 20%;
+}
+
+.statisticBoard{
+	list-style: none;
+	margin: 0px;
+}
+
+.statisticBoard li {
+	border-bottom: 1px solid #ccc;
+}
+
+.statisticBoard h3 {
+	display: inline-block;
+	color: #b6b5b5;
+	font-size: 22px;
+	font-weight: 300;	
+}
+
+.statisticBoard span {
+	display: inline-block;
+	color: #b6a5a5;
+	font-size: 21px;
+	font-weight: 300;
+}
+
+#yearlyStatistic {
+	margin-left: -30px;
+	margin-top: 10px;
+}
+
+#monthlyStatistic {
+	height: 300px;
+	padding-top: 20%;
+}
